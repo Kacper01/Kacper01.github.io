@@ -3,12 +3,26 @@
 }
 body {
 	max-width: 2048px;
-	background-color: blue;
 	margin: 0 auto;
 }
 header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-	color: blue;
+
+}
+
+.our-history
+{
+    display:flex;
+    align-items:start;
+
+}
+
+.our-history img{
+	width: 40%;
+}
+
+.our-history-text {
+	 margin-right: 25px;
 }
