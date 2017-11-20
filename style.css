@@ -33,4 +33,17 @@ element.style {
 .projects {
 	list-style-type: 0;
 	padding: 0;
+	display: flex;
 }
+.projects li {
+    width: 30%;
+}
+.projects img {
+    width: 100%;
+}
+  footer {
+ 	 display: flex;
+ }
+  address {
+  	  display:flex;
+  }
