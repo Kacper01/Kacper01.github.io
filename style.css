@@ -26,3 +26,11 @@ header {
 	 margin-right: 25px;
 	 text-align: justify;
 }
+element.style {
+	list-style-type: none;
+	padding: 0;
+}
+.projects {
+	list-style-type: 0;
+	padding: 0;
+}
