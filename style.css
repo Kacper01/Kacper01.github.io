@@ -12,17 +12,17 @@ header {
 
 }
 
-.our-history
-{
-    display:flex;
-    align-items:start;
+.our-history {
+    display: flex;
+    align-items: start;
 
 }
 
-.our-history img{
+.our-history img {
 	width: 40%;
 }
 
 .our-history-text {
 	 margin-right: 25px;
+	 text-align: justify;
 }
